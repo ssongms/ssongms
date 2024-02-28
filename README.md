@@ -41,7 +41,7 @@
   </a>
 </span>
 <span>
-  <a href="songms0909@khu.ac.kr">
+  <a href="mailto:songms0909@khu.ac.kr">
     <img src="https://img.shields.io/badge/Email-black?style=plastic&logo=Gmail&logoColor=white"/>
   </a>
 </span>
