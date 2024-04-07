@@ -55,7 +55,9 @@
 
 <div align="center">
 <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=ssongms&repo=REAL&title_color=19f9d899&icon_color=19f9d899&text_color=FF75B5&bg_color=31353a" alt="Customized Card">
+    <a href="https://github.com/ssongms/GR_Client">
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=ssongms&repo=GR_Client&title_color=19f9d899&icon_color=19f9d899&text_color=FF75B5&bg_color=31353a" alt="Customized Card">
+    </a>
     <img src="https://github-readme-stats.vercel.app/api/pin?username=ssongms&repo=REAL&title_color=eb1f6a&icon_color=e28905&text_color=f1f1eb&bg_color=272822" alt="Customized Card">
     <img src="https://github-readme-stats.vercel.app/api/pin?username=ssongms&repo=REAL&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Customized Card">
     <img src="https://github-readme-stats.vercel.app/api/pin?username=ssongms&repo=REAL&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Customized Card">
