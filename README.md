@@ -26,16 +26,16 @@
 <div align=center>
     <h3>✨ Pinned ✨</h3>
      <a href="https://github.com/ssongms/PONNECT_FE">
-        <img src="https://github-readme-stats.vercel.app/api/pin?username=ssongms&repo=PONNECT_FE&title_color=eb1f6a&icon_color=e28905&text_color=99d1ce&bg_color=272822" alt="Customized Card">
+        <img src="https://github-readme-stats.vercel.app/api/pin?username=ssongms&repo=PONNECT_FE&title_color=eb1f6a&icon_color=61dafb&text_color=99d1ce&bg_color=272822&border_color=61dafb" alt="Customized Card">
     </a>
     <a href="https://github.com/ssongms/Recommend_timetable_chatbot">
-        <img src="https://github-readme-stats.vercel.app/api/pin?username=ssongms&repo=Recommend_timetable_chatbot&title_color=eb1f6a&icon_color=e28905&text_color=99d1ce&bg_color=272822" alt="Customized Card">
+        <img src="https://github-readme-stats.vercel.app/api/pin?username=ssongms&repo=Recommend_timetable_chatbot&title_color=eb1f6a&icon_color=61dafb&text_color=99d1ce&bg_color=272822&border_color=61dafb" alt="Customized Card">
     </a>
     <a href="https://github.com/ssongms/Panorama-with-Homography">
-        <img src="https://github-readme-stats.vercel.app/api/pin?username=ssongms&repo=Panorama-with-Homography&title_color=eb1f6a&icon_color=e28905&text_color=99d1ce&bg_color=272822" alt="Customized Card">
+        <img src="https://github-readme-stats.vercel.app/api/pin?username=ssongms&repo=Panorama-with-Homography&title_color=eb1f6a&icon_color=61dafb&text_color=99d1ce&bg_color=272822&border_color=61dafb" alt="Customized Card">
     </a>
     <a href="https://github.com/ssongms/DTBB_Client">
-        <img src="https://github-readme-stats.vercel.app/api/pin?username=ssongms&repo=DTBB_Client&title_color=eb1f6a&icon_color=e28905&text_color=99d1ce&bg_color=272822" alt="Customized Card">
+        <img src="https://github-readme-stats.vercel.app/api/pin?username=ssongms&repo=DTBB_Client&title_color=eb1f6a&icon_color=61dafb&text_color=99d1ce&bg_color=272822&border_color=61dafb" alt="Customized Card">
     </a>
 </div>
 
