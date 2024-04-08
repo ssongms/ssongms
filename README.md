@@ -46,9 +46,11 @@
     <a href="https://hama-develop.tistory.com">
         <img src="https://img.shields.io/badge/Tistory Blog-000000?style=flat&logo=Tistory&logoColor=white"/>
     </a>
+	<br>
     <a href="mailto:songms0909@khu.ac.kr">
         <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=Gmail&logoColor=white"/>
     </a>
+	<br>
     <a href="https://www.instagram.com/sms_eok/">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/>
     </a>
