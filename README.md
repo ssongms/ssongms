@@ -35,7 +35,7 @@
         <img src="https://github-readme-stats.vercel.app/api/pin?username=ssongms&repo=Panorama-with-Homography&title_color=eb1f6a&icon_color=61dafb&text_color=99d1ce&bg_color=272822&border_color=61dafb" alt="Customized Card">
     </a>
     <a href="https://github.com/ssongms/DTBB_Client">
-        <img src="https://github-readme-stats.vercel.app/api/pin?username=ssongms&repo=DTBB_Client&title_color=eb1f6a&icon_color=61dafb&text_color=99d1ce&bg_color=272822&border_color=61dafb" alt="Customized Card">
+        <img src="https://github-readme-stats.vercel.app/api/pin?username=ssongms&repo=DTBB_FE&title_color=eb1f6a&icon_color=61dafb&text_color=99d1ce&bg_color=272822&border_color=61dafb" alt="Customized Card">
     </a>
 </div>
 
