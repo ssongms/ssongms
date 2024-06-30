@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
 
 <div align=center>
-	<h3>✨ SKILLS ✨</h3>
+	<h3> SKILLS </h3>
 </div>
 <div align="center">
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
@@ -28,7 +28,7 @@
 <br><br><br>
 
 <div align=center>
-    <h3>✨ Pinned ✨</h3>
+    <h3> Pinned </h3>
      <a href="https://github.com/ssongms/PONNECT_FE">
         <img src="https://github-readme-stats.vercel.app/api/pin?username=ssongms&repo=PONNECT_FE&title_color=eb1f6a&icon_color=61dafb&text_color=99d1ce&bg_color=272822&border_color=61dafb" alt="Customized Card">
     </a>
@@ -46,7 +46,7 @@
 <br><br><br>
 
 <div align=center>
-    <h3>✨ Contact ✨</h3>
+    <h3> Contact </h3>
     <a href="https://hama-develop.tistory.com">
         <img src="https://img.shields.io/badge/Tistory Blog-000000?style=flat&logo=Tistory&logoColor=white"/>
     </a>
