@@ -1,9 +1,18 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
+<h1>SONG MIN SEOK / HAMA</h1>
 
-<div align=center>
-	<h3> SKILLS </h3>
+<br>
+
+<div>
+     <img src="https://github-readme-activity-graph.vercel.app/graph?username=ssongms&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=60%/> 
 </div>
-<div align="center">
+
+<br>
+
+<div>
+  <h3>SKILLS</h3>
+</div>
+<div>
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
 	<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
@@ -24,9 +33,9 @@
 	<img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=flat&logo=Nuxt.js&logoColor=white" />
 </div>
 
+<br>
 
-<br><br><br>
-
+<!--
 <div align=center>
     <h3> Pinned </h3>
      <a href="https://github.com/ssongms/PONNECT_FE">
@@ -42,10 +51,9 @@
         <img src="https://github-readme-stats.vercel.app/api/pin?username=ssongms&repo=DTBB_FE&title_color=eb1f6a&icon_color=61dafb&text_color=99d1ce&bg_color=272822&border_color=61dafb" alt="Customized Card">
     </a>
 </div>
+-->
 
-<br><br><br>
-
-<div align=center>
+<div>
     <h3> Contact </h3>
     <a href="https://hama-develop.tistory.com">
         <img src="https://img.shields.io/badge/Tistory Blog-000000?style=flat&logo=Tistory&logoColor=white"/>
@@ -60,13 +68,7 @@
     </a>
 </div>
 
-<br><br>
-
-<div align=center>
-<!--     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssongms&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=34% /> -->
-<!--     <img src="https://github-readme-activity-graph.vercel.app/graph?username=ssongms&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=60%/> -->
-</div>
-
+<br>
 
 <!--Footer-->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
