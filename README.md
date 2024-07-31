@@ -53,6 +53,21 @@
 </div>
 -->
 
+<h3>ACTIVITY</h3>
+
+- 2019.03 - Kyung Hee Univ
+- 2019.03 - RETURN Study Club
+- 2024.04 - Kakao.9oormthon Univ 2nd
+- 2024.05 - SUNCYAN Company. Frontend Developer
+
+<br>
+
+<h3>CERTIFICATE</h3>
+
+* Engineer Information Processing
+* SQL Developer
+
+
 <div>
     <h3> Contact </h3>
     <a href="https://hama-develop.tistory.com">
