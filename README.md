@@ -66,6 +66,7 @@
 
 * Engineer Information Processing
 * SQL Developer
+* CISCO Networking Academy [IoT]
 
 <br>
 
