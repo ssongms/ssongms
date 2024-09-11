@@ -5,7 +5,10 @@
 
 <div>
      <img src="https://github-readme-activity-graph.vercel.app/graph?username=ssongms&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=60%/> 
+	
 </div>
+
+![ssongms's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssongms&show_icons=true&theme=radical)
 
 <br>
 
