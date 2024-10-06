@@ -62,7 +62,7 @@
 - 2019.03 - RETURN Study Club
 - 2024.04 - Kakao.9oormthon Univ 2nd
 - 2024.05 - SUNCYAN Company. Frontend Developer
-- 2024.08 - Google Developer Student Club [GDSC] KHU Core Member
+- 2024.08 - Google Developer Groups [GDG] KHU Core Member
 
 <br>
 
