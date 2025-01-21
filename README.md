@@ -58,9 +58,9 @@
 
 <h3>ACTIVITY</h3>
 
-- 2019.03 - Kyung Hee Univ
-- 2019.03 - RETURN Study Club
-- 2024.04 - Kakao.9oormthon Univ 2nd
+- 2019.03 - 2025.02 Kyung Hee Univ
+- 2019.03 - 2025.02 RETURN Study Club
+- 2024.03 - 2024.04 Kakao.9oormthon Univ 2nd
 - 2024.05 - SUNCYAN Company. Frontend Developer
 - 2024.08 - Google Developer Groups [GDG] KHU Core Member
 
