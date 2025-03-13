@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
+
 <h1>SONG MIN SEOK / HAMA</h1>
 
 <br>
@@ -8,9 +8,6 @@
 	
 </div>
 
-![ssongms's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssongms&show_icons=true&theme=radical)
-
-<br>
 
 <div>
   <h3>SKILLS</h3>
@@ -71,26 +68,3 @@
 * Engineer Information Processing
 * SQL Developer
 * CISCO Networking Academy [IoT]
-
-<br>
-
-<div>
-    <h3> Contact </h3>
-    <a href="https://hama-develop.tistory.com">
-        <img src="https://img.shields.io/badge/Tistory Blog-000000?style=flat&logo=Tistory&logoColor=white"/>
-    </a>
-	<br>
-    <a href="mailto:songms0909@khu.ac.kr">
-        <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=Gmail&logoColor=white"/>
-    </a>
-	<br>
-    <a href="https://www.instagram.com/sms_eok/">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/>
-    </a>
-</div>
-
-<br>
-
-<!--Footer-->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
-
