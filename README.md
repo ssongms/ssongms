@@ -1,13 +1,12 @@
 
 <h1>SONG MIN SEOK / HAMA</h1>
 
-<br>
 
+<!--
 <div>
-     <img src="https://github-readme-activity-graph.vercel.app/graph?username=ssongms&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=60%/> 
-	
+	<img src="https://github-readme-activity-graph.vercel.app/graph?username=ssongms&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=100%/>
 </div>
-
+-->
 
 <div>
   <h3>SKILLS</h3>
