@@ -23,15 +23,16 @@
 	<br>
 	<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white" />
 	<img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=flat&logo=Nuxt.js&logoColor=white" />
+	<br>
+	<img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white"/>
 </div>
 
-<br />
+<br>
 
 <div>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ssongms&theme=transparent" />
 </div>
 
-<br />
 
 <h3>ACTIVITY</h3>
 
