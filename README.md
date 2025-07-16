@@ -1,13 +1,6 @@
 
 <h1>SONG MIN SEOK / HAMA</h1>
 
-
-<!--
-<div>
-	<img src="https://github-readme-activity-graph.vercel.app/graph?username=ssongms&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=100%/>
-</div>
--->
-
 <div>
   <h3>SKILLS</h3>
 </div>
@@ -32,38 +25,25 @@
 	<img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=flat&logo=Nuxt.js&logoColor=white" />
 </div>
 
-<br>
+<br />
 
-<!--
-<div align=center>
-    <h3> Pinned </h3>
-     <a href="https://github.com/ssongms/PONNECT_FE">
-        <img src="https://github-readme-stats.vercel.app/api/pin?username=ssongms&repo=PONNECT_FE&title_color=eb1f6a&icon_color=61dafb&text_color=99d1ce&bg_color=272822&border_color=61dafb" alt="Customized Card">
-    </a>
-    <a href="https://github.com/ssongms/Recommend_timetable_chatbot">
-        <img src="https://github-readme-stats.vercel.app/api/pin?username=ssongms&repo=Recommend_timetable_chatbot&title_color=eb1f6a&icon_color=61dafb&text_color=99d1ce&bg_color=272822&border_color=61dafb" alt="Customized Card">
-    </a>
-    <a href="https://github.com/ssongms/Panorama-with-Homography">
-        <img src="https://github-readme-stats.vercel.app/api/pin?username=ssongms&repo=Panorama-with-Homography&title_color=eb1f6a&icon_color=61dafb&text_color=99d1ce&bg_color=272822&border_color=61dafb" alt="Customized Card">
-    </a>
-    <a href="https://github.com/ssongms/DTBB_Client">
-        <img src="https://github-readme-stats.vercel.app/api/pin?username=ssongms&repo=DTBB_FE&title_color=eb1f6a&icon_color=61dafb&text_color=99d1ce&bg_color=272822&border_color=61dafb" alt="Customized Card">
-    </a>
+<div>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ssongms&theme=transparent" />
 </div>
--->
+
+<br />
 
 <h3>ACTIVITY</h3>
 
 - 2019.03 - 2025.02 Kyung Hee Univ
-- 2019.03 - 2025.02 RETURN Study Club
+- 2019.03 - 2025.02 RETURN 학술 동아리
 - 2024.03 - 2024.04 Kakao.9oormthon Univ 2nd
 - 2024.05 - SUNCYAN Company. Frontend Developer
-- 2024.08 - Google Developer Groups [GDG] KHU Core Member
 
 <br>
 
 <h3>CERTIFICATE</h3>
 
-* Engineer Information Processing
-* SQL Developer
+* 정보처리기사
+* SQLD
 * CISCO Networking Academy [IoT]
